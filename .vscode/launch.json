@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/GitHub_Repositories/GFG/ProblemOfTheDay",
-      "program": "d:/GitHub_Repositories/GFG/ProblemOfTheDay/build/Debug/outDebug",
+      "cwd": "d:/GitHub_Repositories/LeetCode",
+      "program": "d:/GitHub_Repositories/LeetCode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
